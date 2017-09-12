@@ -1,1 +1,14 @@
+#Information settings
+title: Aurora Framework
+email: auroraframework@gmail.com
+description: A Powerful General Purpose Framework
+google_analytics:
+show_downloads: true
+github_username:  aurora-fw
+
+# Build settings
+markdown: kramdown
 theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
