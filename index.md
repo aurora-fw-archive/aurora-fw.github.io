@@ -1,6 +1,6 @@
 <p align="center"><img src="https://avatars2.githubusercontent.com/u/21695792?v=4&s=250"></p>
 
-<p align="center">:fire: A Powerful General Purpose Framework</p>
+<p align="center">A Powerful General Purpose Framework</p>
 
 <p align="center">
   <a href="https://travis-ci.org/aurora-fw/ci"><img src="https://travis-ci.org/aurora-fw/ci.svg" alt="Build Status"></a>
@@ -12,6 +12,10 @@
 ## About Aurora Framework
 
 Aurora is a Software Framework for General Purpose developed by Luís Ferreira that runs in all platforms, like (Windows NT and \*NIX Environments such as Linux and Apple Systems). It includes libraries to make code more easier to use.
+
+### Pages
+- [Documentation](docs)
+- [Status](status)
 
 ### Contributors
  - Luís "ljmf00" Ferreira (Project Founder)
